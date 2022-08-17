@@ -1,0 +1,11 @@
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\bin\Debug\YouOnlyLabelOnce.exe.config
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\bin\Debug\YouOnlyLabelOnce.exe
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\bin\Debug\YouOnlyLabelOnce.pdb
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\obj\Debug\YouOnlyLabelOnce.csproj.AssemblyReference.cache
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\obj\Debug\YouOnlyLabelOnce.csproj.SuggestedBindingRedirects.cache
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\obj\Debug\YouOnlyLabelOnce.YouOnlyLabelOnce.resources
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\obj\Debug\YouOnlyLabelOnce.Properties.Resources.resources
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\obj\Debug\YouOnlyLabelOnce.csproj.GenerateResource.cache
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\obj\Debug\YouOnlyLabelOnce.csproj.CoreCompileInputs.cache
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\obj\Debug\YouOnlyLabelOnce.exe
+C:\Users\tkocu\source\repos\YouOnlyLabelOnce\YouOnlyLabelOnce\obj\Debug\YouOnlyLabelOnce.pdb
